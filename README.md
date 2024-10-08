@@ -1,4 +1,15 @@
+# IMG.LY documentation
+
 https://img.ly/docs/cesdk/ui/quickstart/
 
-npm start
-npm run build
+# Install Dependencies
+
+`npm install`
+
+# Run the sample
+
+`npm start`
+
+# Build the sample
+
+`npm run build`
